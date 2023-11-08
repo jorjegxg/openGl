@@ -1,0 +1,12 @@
+C:\Users\yotre\source\repos\ProiectTK\ProiectTK\bin\Debug\ProiectTK.exe.config
+C:\Users\yotre\source\repos\ProiectTK\ProiectTK\bin\Debug\ProiectTK.exe
+C:\Users\yotre\source\repos\ProiectTK\ProiectTK\bin\Debug\ProiectTK.pdb
+C:\Users\yotre\source\repos\ProiectTK\ProiectTK\bin\Debug\OpenTK.dll
+C:\Users\yotre\source\repos\ProiectTK\ProiectTK\bin\Debug\OpenTK.pdb
+C:\Users\yotre\source\repos\ProiectTK\ProiectTK\bin\Debug\OpenTK.xml
+C:\Users\yotre\source\repos\ProiectTK\ProiectTK\obj\Debug\ProiectTK.csproj.AssemblyReference.cache
+C:\Users\yotre\source\repos\ProiectTK\ProiectTK\obj\Debug\ProiectTK.csproj.SuggestedBindingRedirects.cache
+C:\Users\yotre\source\repos\ProiectTK\ProiectTK\obj\Debug\ProiectTK.csproj.CoreCompileInputs.cache
+C:\Users\yotre\source\repos\ProiectTK\ProiectTK\obj\Debug\ProiectTK.csproj.CopyComplete
+C:\Users\yotre\source\repos\ProiectTK\ProiectTK\obj\Debug\ProiectTK.exe
+C:\Users\yotre\source\repos\ProiectTK\ProiectTK\obj\Debug\ProiectTK.pdb
